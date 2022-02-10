@@ -2,7 +2,7 @@
 
 The glTF package for the for the [Reality Toolkit](https://github.com/realitycollective/com.realitytoolkit.core).
 
-This is an implementation of the [Khronos Unity glTF](https://github.com/KhronosGroup/UnityGLTF) utility, updated to take advantage of XRTK features.
+This is an implementation of the [Khronos Unity glTF](https://github.com/KhronosGroup/UnityGLTF) utility.
 
 <!--
 [![openupm](https://img.shields.io/npm/v/com.xrtk.gltf?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.xrtk.gltf/)
