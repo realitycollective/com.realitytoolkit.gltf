@@ -1,13 +1,10 @@
 {
-    "name": "XRTK.glTF.Editor",
+    "name": "RealityToolkit.glTF",
+    "rootNamespace": "",
     "references": [
-        "GUID:f3241d040533491e8a1e2714b27c3111",
-        "GUID:e67d30660ec243e4836aac191d3f36fb",
-        "GUID:c59d012d705b0b64db437bdf914fad88"
+        "GUID:f3241d040533491e8a1e2714b27c3111"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
