@@ -28,6 +28,6 @@ The simplest way to getting started using the SDK package in your project is via
 | branch | build status |
 | --- | --- |
 | main | [![main](https://github.com/realitycollective/com.realitytoolkit.gltf/actions/workflows/buildupmpackages.yml/badge.svg?branch=main)](https://github.com/realitycollective/com.realitytoolkit.gltf/actions/workflows/buildupmpackages.yml) |
-| [![development](https://github.com/realitycollective/com.realitytoolkit.gltf/actions/workflows/buildupmpackages.yml/badge.svg?branch=rcdevelopment)](https://github.com/realitycollective/com.realitytoolkit.gltf/actions/workflows/buildupmpackages.yml) |
+| development | [![development](https://github.com/realitycollective/com.realitytoolkit.gltf/actions/workflows/buildupmpackages.yml/badge.svg?branch=rcdevelopment)](https://github.com/realitycollective/com.realitytoolkit.gltf/actions/workflows/buildupmpackages.yml) |
 
 
