@@ -1,11 +1,13 @@
-name: Build and test UPM packages for platforms
+name: Build UPM
 
 on:
   push:
     branches:
       - 'main'
-      - 'rcdevelopment'
-      - 'feature/*'
+      - 'development'
+  pull_request:
+    branches:
+      - '*'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
