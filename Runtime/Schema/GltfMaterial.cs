@@ -4,7 +4,7 @@
 using System;
 using UnityEngine;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// The material appearance of a primitive.

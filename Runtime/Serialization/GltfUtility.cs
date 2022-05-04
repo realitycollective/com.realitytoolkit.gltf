@@ -9,14 +9,14 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using RealityToolkit.Utilities.Async;
+using RealityToolkit.Utilities.Async.Internal;
+using RealityToolkit.Utilities.Gltf.Schema;
+using RealityToolkit.Utilities.WebRequestRest;
 using UnityEngine;
-using XRTK.Extensions;
-using XRTK.Utilities.Async;
-using XRTK.Utilities.Async.Internal;
-using XRTK.Utilities.Gltf.Schema;
-using XRTK.Utilities.WebRequestRest;
+using RealityToolkit.Extensions;
 
-namespace XRTK.Utilities.Gltf.Serialization
+namespace RealityToolkit.Utilities.Gltf.Serialization
 {
     public static class GltfUtility
     {

@@ -2,10 +2,10 @@
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 
 using System;
+using RealityToolkit.Utilities.Gltf.Schema;
 using UnityEngine;
-using XRTK.Utilities.Gltf.Schema;
 
-namespace XRTK.Utilities.Gltf.Serialization
+namespace RealityToolkit.Utilities.Gltf.Serialization
 {
     internal static class GltfConversions
     {

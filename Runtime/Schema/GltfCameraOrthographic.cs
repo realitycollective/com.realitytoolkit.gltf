@@ -3,7 +3,7 @@
 
 using System;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// An orthographic camera containing properties to create an orthographic

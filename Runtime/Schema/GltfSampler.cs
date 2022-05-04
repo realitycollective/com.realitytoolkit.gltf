@@ -3,7 +3,7 @@
 
 using System;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// Texture sampler properties for filtering and wrapping modes.

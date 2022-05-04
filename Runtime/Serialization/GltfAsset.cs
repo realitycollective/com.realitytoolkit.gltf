@@ -1,7 +1,7 @@
-﻿using UnityEngine;
-using XRTK.Utilities.Gltf.Schema;
+﻿using RealityToolkit.Utilities.Gltf.Schema;
+using UnityEngine;
 
-namespace XRTK.Utilities.Gltf
+namespace RealityToolkit.Utilities.Gltf
 {
     public class GltfAsset : ScriptableObject
     {

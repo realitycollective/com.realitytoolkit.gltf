@@ -8,7 +8,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace XRTK.Utilities.Gltf.Serialization.Importers
+namespace RealityToolkit.Utilities.Gltf.Serialization.Importers
 {
     public static class GltfEditorImporter
     {

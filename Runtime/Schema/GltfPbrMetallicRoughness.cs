@@ -3,7 +3,7 @@
 
 using System;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// A set of parameter values that are used to define the metallic-roughness material model from Physically-Based Rendering (PBR) methodology.

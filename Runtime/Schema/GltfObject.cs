@@ -3,10 +3,10 @@
 
 using System;
 using System.Collections.Generic;
+using RealityToolkit.Utilities.Gltf.Schema.Extensions;
 using UnityEngine;
-using XRTK.Utilities.Gltf.Schema.Extensions;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     [Serializable]
     public class GltfObject : GltfProperty

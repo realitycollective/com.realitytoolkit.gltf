@@ -3,7 +3,7 @@
 
 using System;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// The index of the node and TRS property that an animation channel targets.

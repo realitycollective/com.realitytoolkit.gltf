@@ -3,7 +3,7 @@
 
 using System;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// Sparse storage of attributes that deviate from their initialization value.
