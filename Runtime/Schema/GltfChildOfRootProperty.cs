@@ -3,7 +3,7 @@
 
 using System;
 
-namespace XRTK.Utilities.Gltf.Schema
+namespace RealityToolkit.Utilities.Gltf.Schema
 {
     /// <summary>
     /// https://github.com/KhronosGroup/glTF/blob/master/specification/2.0/schema/glTFChildOfRootProperty.schema.json

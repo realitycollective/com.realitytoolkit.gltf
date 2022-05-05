@@ -5,14 +5,14 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
+using RealityToolkit.Utilities.Async;
+using RealityToolkit.Utilities.Gltf.Schema;
+using RealityToolkit.Utilities.WebRequestRest;
 using UnityEngine;
 using UnityEngine.Rendering;
-using XRTK.Extensions;
-using XRTK.Utilities.Async;
-using XRTK.Utilities.Gltf.Schema;
-using XRTK.Utilities.WebRequestRest;
+using RealityToolkit.Extensions;
 
-namespace XRTK.Utilities.Gltf.Serialization
+namespace RealityToolkit.Utilities.Gltf.Serialization
 {
     public static class ConstructGltf
     {

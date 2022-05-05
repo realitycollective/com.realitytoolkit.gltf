@@ -4,7 +4,7 @@ using UnityEditor.AssetImporters;
 using UnityEditor.Experimental.AssetImporters;
 #endif
 
-namespace XRTK.Utilities.Gltf.Serialization.Importers
+namespace RealityToolkit.Utilities.Gltf.Serialization.Importers
 {
     [ScriptedImporter(1, "gltf")]
     public class GltfAssetImporter : ScriptedImporter
