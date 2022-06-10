@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RealityToolkit.Utilities.Gltf.Schema.Extensions
+namespace RealityCollective.Utilities.Gltf.Schema.Extensions
 {
     [Serializable]
     public class KHR_Materials_PbrSpecularGlossiness : GltfExtension

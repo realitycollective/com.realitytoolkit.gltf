@@ -1,11 +1,11 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 
+using RealityCollective.Utilities.Gltf.Schema;
 using System;
-using RealityToolkit.Utilities.Gltf.Schema;
 using UnityEngine;
 
-namespace RealityToolkit.Utilities.Gltf.Serialization
+namespace RealityCollective.Utilities.Gltf.Serialization
 {
     internal static class GltfConversions
     {
