@@ -3,7 +3,7 @@
 
 using System;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// A perspective camera containing properties to create a perspective projection

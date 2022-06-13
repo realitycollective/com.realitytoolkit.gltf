@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// Geometry to be rendered with the given material.

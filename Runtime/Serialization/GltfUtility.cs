@@ -1,6 +1,11 @@
 ﻿// Copyright (c) XRTK. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 
+using RealityCollective.Extensions;
+using RealityCollective.Utilities.Async;
+using RealityCollective.Utilities.Async.Internal;
+using RealityCollective.Utilities.Gltf.Schema;
+using RealityCollective.Utilities.WebRequestRest;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -9,14 +14,9 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using RealityToolkit.Utilities.Async;
-using RealityToolkit.Utilities.Async.Internal;
-using RealityToolkit.Utilities.Gltf.Schema;
-using RealityToolkit.Utilities.WebRequestRest;
 using UnityEngine;
-using RealityToolkit.Extensions;
 
-namespace RealityToolkit.Utilities.Gltf.Serialization
+namespace RealityCollective.Utilities.Gltf.Serialization
 {
     public static class GltfUtility
     {

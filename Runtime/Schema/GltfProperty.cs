@@ -3,7 +3,7 @@
 
 using System.Collections.Generic;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     public class GltfProperty
     {

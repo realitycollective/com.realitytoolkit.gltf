@@ -3,7 +3,7 @@
 
 using System;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// A view into a buffer generally representing a subset of the buffer.

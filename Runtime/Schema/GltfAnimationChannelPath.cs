@@ -1,7 +1,7 @@
 ﻿// Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License. See LICENSE in the project root for license information.
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// The name of the node's TRS property to modify, or the weights of the Morph Target it instantiates.

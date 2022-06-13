@@ -4,7 +4,7 @@
 using System;
 using UnityEngine;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// A texture and its sampler.

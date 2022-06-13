@@ -3,7 +3,7 @@
 
 using System;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// Targets an animation's sampler at a node's property.

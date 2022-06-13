@@ -7,6 +7,8 @@ using UnityEditor.Experimental.AssetImporters;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
+using RealityCollective.Utilities.Gltf.Serialization;
+using RealityCollective.Utilities.Gltf;
 
 namespace RealityToolkit.Utilities.Gltf.Serialization.Importers
 {

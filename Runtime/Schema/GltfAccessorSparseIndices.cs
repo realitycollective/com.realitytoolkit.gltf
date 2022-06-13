@@ -3,7 +3,7 @@
 
 using System;
 
-namespace RealityToolkit.Utilities.Gltf.Schema
+namespace RealityCollective.Utilities.Gltf.Schema
 {
     /// <summary>
     /// Indices of those attributes that deviate from their initialization value.
